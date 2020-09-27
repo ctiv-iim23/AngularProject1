@@ -10,8 +10,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "babel src -d lib",
-    "test": "jest",
+    "build": "ng build",
     "lint": "ng lint",
     "prettier": "prettier --config ./.prettierrc --list-different \"src/{app,environments}/**/*{.ts,.html,.scss}\" "
   },
