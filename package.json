@@ -1,5 +1,5 @@
 {
-  "name": "tournament-tree",
+  "name": "angularproject1",
   "version": "2.0.2",
   "scripts": {
     "ng": "ng",
@@ -13,7 +13,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~8.2.8",
     "@angular/common": "~8.2.8",
